@@ -1,0 +1,72 @@
+proxies:
+  - {"server":"211.99.114.119","port":15002,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 01","type":"trojan"}
+  - {"server":"211.99.114.119","port":15005,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 02","type":"trojan"}
+  - {"server":"211.99.114.119","port":15008,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 03","type":"trojan"}
+  - {"server":"211.99.114.119","port":15012,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 04","type":"trojan"}
+  - {"server":"211.99.114.119","port":15015,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 05","type":"trojan"}
+  - {"server":"211.99.114.119","port":15018,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 06","type":"trojan"}
+  - {"server":"211.99.114.119","port":15022,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 07","type":"trojan"}
+  - {"server":"211.99.114.119","port":15025,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 08","type":"trojan"}
+  - {"server":"211.99.114.119","port":15028,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 09","type":"trojan"}
+  - {"server":"211.99.114.119","port":15032,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 10","type":"trojan"}
+  - {"server":"211.99.114.119","port":15035,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 11","type":"trojan"}
+  - {"server":"211.99.114.119","port":15038,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 12","type":"trojan"}
+  - {"server":"211.99.114.119","port":15042,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 13","type":"trojan"}
+  - {"server":"211.99.114.119","port":15045,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 14","type":"trojan"}
+  - {"server":"211.99.114.119","port":15048,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇭🇰 Hong Kong 15","type":"trojan"}
+  - {"server":"211.99.114.119","port":18802,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 01","type":"trojan"}
+  - {"server":"211.99.114.119","port":18805,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 02","type":"trojan"}
+  - {"server":"211.99.114.119","port":18808,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 03","type":"trojan"}
+  - {"server":"211.99.114.119","port":18812,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 04","type":"trojan"}
+  - {"server":"211.99.114.119","port":18815,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 05","type":"trojan"}
+  - {"server":"211.99.114.119","port":18818,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 06","type":"trojan"}
+  - {"server":"211.99.114.119","port":18822,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 07","type":"trojan"}
+  - {"server":"211.99.114.119","port":18825,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 08","type":"trojan"}
+  - {"server":"211.99.114.119","port":18828,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 09","type":"trojan"}
+  - {"server":"211.99.114.119","port":18832,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 10","type":"trojan"}
+  - {"server":"211.99.114.119","port":18835,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 11","type":"trojan"}
+  - {"server":"211.99.114.119","port":18838,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 12","type":"trojan"}
+  - {"server":"211.99.114.119","port":18842,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇸🇬 Singapore 13","type":"trojan"}
+  - {"server":"180.101.133.118","port":17002,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 01","type":"trojan"}
+  - {"server":"180.101.133.118","port":17005,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 02","type":"trojan"}
+  - {"server":"180.101.133.118","port":17008,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 03","type":"trojan"}
+  - {"server":"180.101.133.118","port":17012,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 04","type":"trojan"}
+  - {"server":"180.101.133.118","port":17015,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 05","type":"trojan"}
+  - {"server":"180.101.133.118","port":17018,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 06","type":"trojan"}
+  - {"server":"180.101.133.118","port":17022,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 07","type":"trojan"}
+  - {"server":"180.101.133.118","port":17025,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 08","type":"trojan"}
+  - {"server":"180.101.133.118","port":17028,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 09","type":"trojan"}
+  - {"server":"180.101.133.118","port":17032,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 10","type":"trojan"}
+  - {"server":"180.101.133.118","port":17035,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 11","type":"trojan"}
+  - {"server":"180.101.133.118","port":17038,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 12","type":"trojan"}
+  - {"server":"180.101.133.118","port":17042,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 13","type":"trojan"}
+  - {"server":"180.101.133.118","port":17045,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 14","type":"trojan"}
+  - {"server":"180.101.133.118","port":17048,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇯🇵 Japan 15","type":"trojan"}
+  - {"server":"180.101.133.118","port":16002,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 01","type":"trojan"}
+  - {"server":"180.101.133.118","port":16005,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 02","type":"trojan"}
+  - {"server":"180.101.133.118","port":16008,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 03","type":"trojan"}
+  - {"server":"180.101.133.118","port":16012,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 04","type":"trojan"}
+  - {"server":"180.101.133.118","port":16015,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 05","type":"trojan"}
+  - {"server":"180.101.133.118","port":16018,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 06","type":"trojan"}
+  - {"server":"180.101.133.118","port":16022,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 07","type":"trojan"}
+  - {"server":"180.101.133.118","port":16025,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 08","type":"trojan"}
+  - {"server":"180.101.133.118","port":16028,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 09","type":"trojan"}
+  - {"server":"180.101.133.118","port":16032,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 10","type":"trojan"}
+  - {"server":"180.101.133.118","port":16035,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 11","type":"trojan"}
+  - {"server":"180.101.133.118","port":16038,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 12","type":"trojan"}
+  - {"server":"180.101.133.118","port":16042,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 13","type":"trojan"}
+  - {"server":"180.101.133.118","port":16045,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 14","type":"trojan"}
+  - {"server":"180.101.133.118","port":16048,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇺🇸 United States 15","type":"trojan"}
+  - {"server":"211.99.114.119","port":19002,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 01","type":"trojan"}
+  - {"server":"211.99.114.119","port":19005,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 02","type":"trojan"}
+  - {"server":"211.99.114.119","port":19008,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 03","type":"trojan"}
+  - {"server":"211.99.114.119","port":19012,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 04","type":"trojan"}
+  - {"server":"211.99.114.119","port":19015,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 05","type":"trojan"}
+  - {"server":"211.99.114.119","port":19018,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 06","type":"trojan"}
+  - {"server":"211.99.114.119","port":19022,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 07","type":"trojan"}
+  - {"server":"211.99.114.119","port":19025,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 08","type":"trojan"}
+  - {"server":"211.99.114.119","port":19028,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 09","type":"trojan"}
+  - {"server":"211.99.114.119","port":19032,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 10","type":"trojan"}
+  - {"server":"211.99.114.119","port":19035,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 11","type":"trojan"}
+  - {"server":"211.99.114.119","port":19038,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 14","type":"trojan"}
+  - {"server":"211.99.114.119","port":19042,"password":"IWtTDeU4s4D-bT8L6LzYs","tls":true,"skip-cert-verify":true,"udp":true,"tfo":true,"name":"🇨🇳 Taiwan 15","type":"trojan"}
